@@ -1,0 +1,7 @@
+[Live Demo Link (GitHub Pages)](https://<Erparashah>.github.io/SCT_WEB_3/)
+
+## 📥 Setup 
+```bash
+git clone https://github.com/<your-username>/SCT_WEB_3
+cd SCT_WEB_3
+open index.html
